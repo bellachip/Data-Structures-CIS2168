@@ -1,0 +1,23 @@
+compareTo method  
+a.compareTo(b)
+
+<0 --> a comes before b
+>0 --> a comes after b 
+=0 --> a and b are the same 
+
+unoptimized version of bubble sort 
+
+how many comparisons did we do? 
+
+5,4,3,2,1
+
+
+comparing linked list and array list (add)
+analyzing array list code 
+constant time- doesnt care about how big the list is 
+linear time- cares about how big the list is. 
+
+
+
+
+
